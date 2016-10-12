@@ -19,7 +19,6 @@
         "typings/react/react-global.d.ts",
         "typings/react/react-0.13.3.d.ts",
         "typings/react/react-global-0.13.3.d.ts",
-        "typings/react-native/*.tsx",
         "typings/react-native/react-native-29.d.ts"
     ]
 }
