@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "outDir": "dist",
+        "jsx": "react",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "exclude": [
+        "dist",
+        "node_modules",
+        "deprecated",
+        "typings/react/*-tests.ts",
+        "typings/react/react-global.d.ts",
+        "typings/react/react-0.13.3.d.ts",
+        "typings/react/react-global-0.13.3.d.ts",
+        "typings/react-native/*.tsx",
+        "typings/react-native/react-native-29.d.ts"
+    ]
+}

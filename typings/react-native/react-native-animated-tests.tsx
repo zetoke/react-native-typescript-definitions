@@ -1,4 +1,4 @@
-///<reference path="../react-native/react-native.d.ts" />
+///<reference path="./react-native-29.d.ts" />
 
 import * as React from 'react-native'
 
